@@ -1,5 +1,5 @@
 
-				                     Code Book
+				                     CODE BOOK
 
 There are 68 variables.
 
