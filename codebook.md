@@ -1,5 +1,5 @@
 
-				    <h2>Code Book</h2>
+				                     Code Book
 
 There are 68 variables.
 
