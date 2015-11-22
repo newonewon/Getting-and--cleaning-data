@@ -11,11 +11,11 @@ This R script performs the following steps, as per the project assignment instru
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Download Data
+DOWNLOADING DATA
 
 The data for the script can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 and the unzipped version be saved.
  
-Running the script
- 
-The script should be run in R and the user will get the file tidy_data.txt.Thus contains the independent tidy data set with the average of each variable for each activity and each subject.
+RUNNING THE SCRIPT
+
+The script should be run in R and the user will get the file tidy_data.txt.ThIs file contains the independent tidy data set with the average of each variable for each activity and each subject.
